@@ -19,9 +19,9 @@ La conception de sites web écologiques est un défi majeur de notre époque, vi
 Lors du développement de mon site, j'ai appliqué des principes d'éco-conception pour minimiser son impact environnemental tout en garantissant une expérience utilisateur optimale.
 - **Utilisation de Next.js :** Choix délibéré pour profiter du rendu côté serveur, réduisant le temps de chargement des pages et minimisant la consommation de bande passante.
 - **Utilisation de la composante `Image` de Next.js**
-J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité a permis de générer des tailles adaptées aux différents appareils, réduisant ainsi la consommation de bande passante et améliorant les performances du site.
+J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité permet d’optimiser les images pour une meilleure expérience utilisater.
 - **Intégration d'éléments SVG**
-L'utilisation d'éléments SVG (Scalable Vector Graphics) a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée sur diverses résolutions d'écran. Cette approche a favorisé une expérience utilisateur fluide tout en limitant la consommation de ressources.
+L'utilisation d'éléments SVG (Scalable Vector Graphics) a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée sur diverses résolutions d'écran. Cette approche favorise une expérience utilisateur fluide tout en limitant la consommation de ressources.
 - **Styles de Next.js et "vent arrière" (Tailwind CSS)**
 J'ai adopté les styles prédéfinis de Next.js et probablement ceux de "vent arrière" (ou Tailwind CSS) pour simplifier la gestion des styles. Cette méthodologie axée sur des classes préétablies a favorisé une conception légère et efficace du site.
 
