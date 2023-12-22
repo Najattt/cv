@@ -10,22 +10,26 @@ La conception de sites web écologiques est un défi majeur de notre époque, vi
 
 - **Gestion avancée du routage :** La gestion dynamique des routes et la stratégie de pré-rendu permettent de minimiser les requêtes au serveur et d'optimiser le trafic réseau.
 - **Performance améliorée et éco-conception** : Next.js, grâce à son rendu côté serveur, réduit le temps de chargement des pages, améliorant ainsi l'expérience utilisateur tout en réduisant la consommation de ressources.
+- **L’optimisation des images** :Next.js propose un composant Image qui remplace la balise <img> en HTML. Il permet alors d’optimiser les images pour une meilleure expérience utilisateur, mais aussi une amélioration du référencement Google. Parmi les optimisations qu’il fournit, on retrouve le fait qu’il charge l’image uniquement quand elle rentre la fenêtre de navigation.
 - **Référencement / SEO** : La prise en charge native du rendu côté serveur rend les pages facilement indexables, augmentant ainsi la visibilité et le trafic organique.
 - **Rapidité de développement** : Fondé sur React, Next.js convient aux développeurs familiers avec React. Il simplifie la gestion des styles via les CSS Modules et bénéficie d'une communauté active.
 - **Mobile Friendly** : Next.js prend en charge les conceptions réactives pour les applications web mobiles, garantissant une expérience utilisateur adaptative et offre la possibilité de créer des Progressive Web Apps (PWA).
 - **Évolutivité et maintenance** : Next.js, avec sa maturité et sa communauté active, facilite la maintenance et l'ajout de nouvelles fonctionnalités pour répondre aux besoins changeants du marché
 
-
 ## Partie 2 : Éco-conception de mon site Internet
 
-Mon site Internet a été conçu en tenant compte des principes d'éco-conception pour minimiser son impact environnemental tout en offrant une expérience utilisateur optimale :
+Lors du développement de mon site, j'ai appliqué des principes d'éco-conception pour minimiser son impact environnemental tout en garantissant une expérience utilisateur optimale.
 
-- **Techniques utilisées :** J'ai exploité les fonctionnalités de Next.js telles que la génération de pages statiques pour réduire les temps de chargement et l'utilisation de CDN pour la distribution de contenu.
+### Utilisation de la composante `Image` de Next.js
 
-- **Choix de mise en page responsif :** La conception a été pensée pour être adaptative à différents appareils, réduisant ainsi la consommation énergétique liée à l'affichage.
+J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité a permis de générer des tailles adaptées aux différents appareils, réduisant ainsi la consommation de bande passante et améliorant les performances du site.
 
-- **Optimisation des ressources :** Les images ont été optimisées pour une taille minimale sans compromettre la qualité, réduisant ainsi la bande passante nécessaire au chargement.
+### Intégration d'éléments SVG
 
----
+L'utilisation d'éléments SVG (Scalable Vector Graphics) a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée sur diverses résolutions d'écran. Cette approche a favorisé une expérience utilisateur fluide tout en limitant la consommation de ressources.
 
-Ces deux parties démontrent comment l'utilisation de Next.js contribue à la création de sites Internet éco-conçus, et comment j'ai appliqué ces principes dans la conception de mon propre site. L'objectif est d'illustrer l'importance de l'éco-conception dans le développement web pour préserver notre environnement.
+### Styles de Next.js et "vent arrière" (Tailwind CSS ?)
+
+J'ai adopté les styles prédéfinis de Next.js et probablement ceux de "vent arrière" (ou Tailwind CSS) pour simplifier la gestion des styles. Cette méthodologie axée sur des classes préétablies a favorisé une conception légère et efficace du site.
+
+Ce choix de techniques a permis de concevoir un site éco-conçu, optimisé pour les performances et réduisant la consommation de ressources, tout en offrant une expérience utilisateur de qualité.
