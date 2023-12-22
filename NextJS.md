@@ -9,15 +9,15 @@ La conception de sites web écologiques est un défi majeur de notre époque, vi
 - **Optimisation des ressources :** Grâce à des fonctionnalités telles que l'optimisation automatique des images et le chargement différé, Next.js réduit la taille des fichiers et améliore l'efficacité énergétique.
 
 - **Gestion avancée du routage :** La gestion dynamique des routes et la stratégie de pré-rendu permettent de minimiser les requêtes au serveur et d'optimiser le trafic réseau.
--**Performance améliorée et éco-conception** : Next.js, grâce à son rendu côté serveur, réduit le temps de chargement des pages, améliorant ainsi l'expérience utilisateur tout en réduisant la consommation de ressources.
+- **Performance améliorée et éco-conception** : Next.js, grâce à son rendu côté serveur, réduit le temps de chargement des pages, améliorant ainsi l'expérience utilisateur tout en réduisant la consommation de ressources.
 
--**Référencement / SEO** : La prise en charge native du rendu côté serveur rend les pages facilement indexables, augmentant ainsi la visibilité et le trafic organique.
+- **Référencement / SEO** : La prise en charge native du rendu côté serveur rend les pages facilement indexables, augmentant ainsi la visibilité et le trafic organique.
 
--**Rapidité de développement** : Fondé sur React, Next.js convient aux développeurs familiers avec React. Il simplifie la gestion des styles via les CSS Modules et bénéficie d'une communauté active.
+- **Rapidité de développement** : Fondé sur React, Next.js convient aux développeurs familiers avec React. Il simplifie la gestion des styles via les CSS Modules et bénéficie d'une communauté active.
 
--**Mobile Friendly** : Next.js prend en charge les conceptions réactives pour les applications web mobiles, garantissant une expérience utilisateur adaptative et offre la possibilité de créer des Progressive Web Apps (PWA).
+- **Mobile Friendly** : Next.js prend en charge les conceptions réactives pour les applications web mobiles, garantissant une expérience utilisateur adaptative et offre la possibilité de créer des Progressive Web Apps (PWA).
 
--**Évolutivité et maintenance** : Next.js, avec sa maturité et sa communauté active, facilite la maintenance et l'ajout de nouvelles fonctionnalités pour répondre aux besoins changeants du marché.
+- **Évolutivité et maintenance** : Next.js, avec sa maturité et sa communauté active, facilite la maintenance et l'ajout de nouvelles fonctionnalités pour répondre aux besoins changeants du marché.
 
 ## Partie 2 : Éco-conception de mon site Internet
 
