@@ -4,15 +4,12 @@
 
 La conception de sites web écologiques est un défi majeur de notre époque, visant à réduire l'empreinte carbone et à optimiser les performances. L'utilisation de Next.js offre plusieurs avantages en termes d'éco-conception :
 
-- **Performances optimisées :** Next.js permet la génération de pages statiques et le rendu côté serveur (SSR), réduisant ainsi le temps de chargement et la consommation de bande passante.
-- **Optimisation des ressources :** Grâce à des fonctionnalités telles que l'optimisation automatique des images et le chargement différé, Next.js réduit la taille des fichiers et améliore l'efficacité énergétique.
-- **Gestion avancée du routage :** La gestion dynamique des routes et la stratégie de pré-rendu permettent de minimiser les requêtes au serveur et d'optimiser le trafic réseau.
-- **Performance améliorée et éco-conception** : Next.js, grâce à son rendu côté serveur, réduit le temps de chargement des pages, améliorant ainsi l'expérience utilisateur tout en réduisant la consommation de ressources.
-- **L’optimisation des images** :Next.js propose un composant Image qui remplace la balise <img> en HTML. Il permet alors d’optimiser les images pour une meilleure expérience utilisateur, mais aussi une amélioration du référencement Google. Parmi les optimisations qu’il fournit, on retrouve le fait qu’il charge l’image uniquement quand elle rentre la fenêtre de navigation.
-- **Référencement / SEO** : La prise en charge native du rendu côté serveur rend les pages facilement indexables, augmentant ainsi la visibilité et le trafic organique.
+- **Le Server Side Rendering(SSR)** de Next.js génère du HTML pour chaque page à l'avance, permettant un affichage rapide du contenu lorsque l'utilisateur en fait la demande, offrant ainsi une meilleure indexation et des performances optimales pour les applications web.
+- **L’optimisation des images** :Next.js propose un composant Image (du composant 'next/image') qui remplace la balise <img> en HTML.Il charge l'image uniquement quand elle rentre la fenêtre de navigation ou encore une optimisation de taille pour chaque appareil.
+- **Gestion avancée du routage :** Next.js crée une route pour chaque fichier présent dans le dossier du projet. Par exemple, pour un fichier nommé 'cv.js', la route pour correspondante serait https//localhost:3000/cv.
 - **Rapidité de développement** : Fondé sur React, Next.js convient aux développeurs familiers avec React. Il simplifie la gestion des styles via les CSS Modules et bénéficie d'une communauté active.
 - **Mobile Friendly** : Next.js prend en charge les conceptions réactives pour les applications web mobiles, garantissant une expérience utilisateur adaptative et offre la possibilité de créer des Progressive Web Apps (PWA).
-- **Évolutivité et maintenance** : Next.js, avec sa maturité et sa communauté active, facilite la maintenance et l'ajout de nouvelles fonctionnalités pour répondre aux besoins changeants du marché
+- **Évolutivité et maintenance** : Next.js, avec sa maturité et sa communauté active, facilite la maintenance et l'ajout de nouvelles fonctionnalités pour répondre aux besoins changeants du marché.
 
 ## Partie 2 : Éco-conception de mon site Internet
 
