@@ -5,7 +5,7 @@
 La conception de sites web écologiques est un défi majeur de notre époque, visant à réduire l'empreinte carbone et à optimiser les performances. L'utilisation de Next.js offre plusieurs avantages en termes d'éco-conception :
 
 - **Le Server Side Rendering(SSR)** de Next.js génère du HTML pour chaque page à l'avance, permettant un affichage rapide du contenu lorsque l'utilisateur en fait la demande, offrant ainsi une meilleure indexation et des performances optimales pour les applications web.
-- **L’optimisation des images** :Next.js propose un composant Image (du composant 'next/image') qui remplace la balise <img> en HTML.Il charge l'image uniquement quand elle rentre la fenêtre de navigation ou encore une optimisation de taille pour chaque appareil.
+- **L’optimisation des images** :Next.js propose un composant Image (du composant 'next/image') qui remplace la balise <img> en HTML.Il charge l'image uniquement quand elle rentre dans la fenêtre de navigation,il propose une optimisation de taille pour chaque appareil.
 - **Gestion avancée du routage :** Next.js crée une route pour chaque fichier présent dans le dossier du projet. Par exemple, pour un fichier nommé 'cv.js', la route pour correspondante serait https//localhost:3000/cv.
 - **Rapidité de développement** : Fondé sur React, Next.js convient aux développeurs familiers avec React. Il simplifie la gestion des styles via les CSS Modules et bénéficie d'une communauté active.
 - **Mobile Friendly** : Next.js prend en charge les conceptions réactives pour les applications web mobiles, garantissant une expérience utilisateur adaptative et offre la possibilité de créer des Progressive Web Apps (PWA).
@@ -14,13 +14,13 @@ La conception de sites web écologiques est un défi majeur de notre époque, vi
 ## Partie 2 : Éco-conception de mon site Internet
 
 Lors du développement de mon site, j'ai appliqué des principes d'éco-conception pour minimiser son impact environnemental tout en garantissant une expérience utilisateur optimale.
-- **Utilisation de Next.js :** Choix délibéré pour profiter du rendu côté serveur, réduisant le temps de chargement des pages et minimisant la consommation de bande passante.
+- **Utilisation de Next.js :** Choix délibéré pour profiter du rendu côté serveur, réduisant le temps de chargement des pages et optimisant les images  .
 - **Utilisation de la composante `Image` de Next.js**
-J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité permet d’optimiser les images pour une meilleure expérience utilisater.
+J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité permet d’optimiser les images.
 - **Intégration d'éléments SVG**
-L'utilisation d'éléments SVG (Scalable Vector Graphics) a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée sur diverses résolutions d'écran. Cette approche favorise une expérience utilisateur fluide tout en limitant la consommation de ressources.
+L'utilisation d'éléments SVG (Scalable Vector Graphics) a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée. Cette approche favorise une expérience utilisateur fluide tout en limitant la consommation de ressources.
 - **Styles de Next.js et "vent arrière" (Tailwind CSS)**
-J'ai adopté les styles prédéfinis de Next.js et probablement ceux de "vent arrière" (ou Tailwind CSS) pour simplifier la gestion des styles. Cette méthodologie axée sur des classes préétablies a favorisé une conception légère et efficace du site.
+J'ai adopté les styles prédéfinis de Next.js et ceux de "vent arrière" (Tailwind et CSS) pour simplifier la gestion des styles. Cette méthodologie axée sur des classes préétablies a favorisé une conception légère et efficace du site.
 
 Ce choix de techniques a permis de concevoir un site éco-conçu, optimisé pour les performances et réduisant la consommation de ressources, tout en offrant une expérience utilisateur de qualité.
 
