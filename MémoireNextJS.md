@@ -17,10 +17,9 @@ Lors du développement de mon site, j'ai appliqué des principes d'éco-concepti
 - **Utilisation de Next.js :** Choix délibéré pour profiter du rendu côté serveur, réduisant le temps de chargement des pages et optimisant les images  .
 - **Utilisation de la composante `Image` de Next.js**
 J'ai intégré la composante `Image` de Next.js pour optimiser le chargement des images. Cette fonctionnalité permet d’optimiser les images.
-- **Intégration d'éléments SVG**
-L'utilisation d'éléments SVG a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée. Cette approche limite la consommation de ressources.
-- **Utilisation de Tailwind CSS** : J'ai intégré les styles prédéfinis de Tailwind CSS pour simplifier la gestion des styles. Cette approche basée sur l'utilisation de classes prédéfinies a facilité la conception légère et efficace du site.
-- **Utilisation de la composante Link** :Le composant Link précharge les pages en arrière-plan, pour des transitions de page plus rapides et plus fluides.
+- **Intégration d'éléments `SVG`** : L'utilisation d'éléments SVG a contribué à réduire la taille des fichiers tout en maintenant une qualité visuelle élevée. Cette approche limite la consommation de ressources.
+- **Utilisation de `Tailwind CSS`** : J'ai intégré les styles prédéfinis de Tailwind CSS pour simplifier la gestion des styles. Cette approche basée sur l'utilisation de classes prédéfinies a facilité la conception légère et efficace du site.
+- **Utilisation de la composante `Link`** :Le composant Link précharge les pages en arrière-plan, pour des transitions de page plus rapides et plus fluides.
 
 Ce choix de techniques a permis de concevoir un site éco-conçu, optimisé pour les performances et réduisant la consommation de ressources, tout en offrant une expérience utilisateur de qualité.
 
