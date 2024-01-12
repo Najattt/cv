@@ -39,9 +39,9 @@ const Education = () => {
       <h1 className='text-xl uppercase mb-4'>Projets</h1>
       <hr className={styles.separator} />
         <ul className="list-disc ml-6 mb-8">
-        <li className={styles.project}>Étude comparative des bases de données relationnelles et objets (SQL -NOSQL(mongoDB)) |2020</li>
         <li className={styles.project}>Application de maching (covoiturage) Spring/React/NoSql et python (en cours )2023</li>
         <li className={styles.project}>Génération de caricatures à l'aide de techniques d'IA |2022</li>
+        <li className={styles.project}>Étude comparative des bases de données relationnelles et objets (SQL -NOSQL(mongoDB)) |2020</li>
         </ul>
         <div>
           
