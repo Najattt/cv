@@ -33,8 +33,7 @@ const Header = () => {
           <li className='mb-1'><FiMapPin className="inline-block align-text-bottom text-pink-950" /> {address}</li>
           {/* <li className='max-w-sm mx-auto  shadow-lg flex items-center'><a href="URL_DE_VOTRE_GITHUB_PROFILE"> */}
        <li className='flex items-center justify-center text-center'> <FontAwesomeIcon icon={faGithub} className='h-5 w-5 text-pink-950 mr-1' />
-      {/* </a> */}
-      <Link href="https://github.com/Najattt/Cv_nextLS/">
+      <Link href="https://github.com/Najattt/cv/">
       @Najat
       </Link>
           </li>  
