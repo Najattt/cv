@@ -6,8 +6,8 @@ const Skills = () => {
     { name: 'Java', percentage: 70 },
     { name: 'Python', percentage: 70 },
     { name: 'HTML', percentage: 70 },
-    { name: 'React', percentage: 70 },
-    { name: 'Spring', percentage: 70 },
+    { name: 'React', percentage: 60 },
+    { name: 'Spring', percentage: 60 },
     { name: 'SQL', percentage: 80 },
     { name: 'MongoDB', percentage: 70 },
     { name: 'JS', percentage: 70 }
